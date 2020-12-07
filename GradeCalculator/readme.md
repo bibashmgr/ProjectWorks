@@ -1,0 +1,1 @@
+> The following project is called `GradeCalculator` which is a website that calculates the grade of students and is created by using `HTML` , `CSS` & `JavaScript`.
